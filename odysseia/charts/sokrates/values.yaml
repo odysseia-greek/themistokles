@@ -68,7 +68,7 @@ envVariables:
   odysseiaapi:
     port: 5000
   sidecar:
-    port: 5001
+    port: 50051
 
 namespaceOverride: odysseia
 

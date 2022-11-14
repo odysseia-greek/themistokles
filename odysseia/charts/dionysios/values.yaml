@@ -60,7 +60,7 @@ envVariables:
   odysseiaapi:
     port: 5000
   sidecar:
-    port: 5001
+    port: 50051
   solonService: https://solon:5443
   vaultService: https://vault:8200
   elasticService: https://elastic-master:9200
