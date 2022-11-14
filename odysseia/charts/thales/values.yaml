@@ -55,7 +55,7 @@ envVariables:
   mqService: queue
   mqPort: 50000
   sidecar:
-    port: 5001
+    port: 50051
 
 namespaceOverride: odysseia
 
